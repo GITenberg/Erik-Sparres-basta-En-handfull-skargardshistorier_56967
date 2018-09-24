@@ -1,16 +1,21 @@
 _repo: Erik-Sparres-basta-En-handfull-skargardshistorier_56967
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Stangenberg, Knut
     gutenberg_agent_id: '49107'
     url: http://www.gutenberg.org/2009/agents/49107
+covers:
+- cover_type: archival
+  image_path: 56967-h/images/cover.jpg
 creator:
   author:
     agent_name: Sparre, Erik
     gutenberg_agent_id: '49106'
     url: http://www.gutenberg.org/2009/agents/49106
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56967#Erik-Sparres-basta-En-handfull-skargardshistorier
 gutenberg_issued: '2018-04-12'
 gutenberg_type: Text
 identifiers:
